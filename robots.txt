@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /data/
+Allow: /
+
+Sitemap: https://shamsiddindevs.github.io/architec/sitemap.xml
